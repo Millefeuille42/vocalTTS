@@ -1,0 +1,15 @@
+.idea
+./.idea
+
+data
+./data
+
+dca/cmd/dca/dca
+dca/.travis.yml
+dca/LICENSE
+dca/README.md
+./dca/cmd/dca/dca
+./dca/.travis.yml
+./dca/LICENSE
+./dca/README.md
+
